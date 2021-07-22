@@ -1,4 +1,4 @@
-## Extracting Data of Headlines in Announcements
+## :zap:Extracting Data of Headlines in Announcements:zap:
 * It is aimed to obtain all of the Kocaeli University Titles using the Python 'BeautifulSoup' Library and print them on the terminal screen.
 
 ## ScreenShot
