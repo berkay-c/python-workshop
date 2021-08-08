@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 23 15:54:42 2021
-
-@author: berkay
-"""
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -61,7 +53,7 @@ def PlateCode(platecode):
         # We make our query
         cur.execute('''SELECT Şehir_Adı FROM CityPlateCode where Plaka_Kodu=?''', (platecode,))
         results = cur.fetchall()
-        return f"{results}"
+        return f"{results[0][0]}"
     return f"{platecode} Plate Codes Are Not Available! <br/> Please Enter A Valid License Plate Code"
        
 
@@ -71,10 +63,14 @@ def CityName(city):
     con = sqlite3.connect('my_database.db') # We Connect to Database
     cr = con.cursor() 
     # We make our query
-    cr.execute("SELECT Plaka_Kodu FROM CityPlateCode WHERE Şehir_Adı like '%:cityname%' ", {"cityname":city,}) 
-    dataresults = cr.fetchall() 
-    print(dataresults)
-    return f"{dataresults}"
+    cr.execute("SELECT Plaka_Kodu FROM CityPlateCode WHERE Şehir_Adı like '" +str(city)+"'") 
+    dataresults = cr.fetchone() 
+    if dataresults[0]<10:
+        sonuc = "0"+ str(dataresults[0])
+        return sonuc
+    else:
+        return f"{dataresults[0]}"
+   
     
 
 if __name__ == "__main__":

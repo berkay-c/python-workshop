@@ -34,3 +34,4 @@
 * Screenshot from our file named 'out.csv'
 ![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/out_csv.png?raw=true)
 
+
