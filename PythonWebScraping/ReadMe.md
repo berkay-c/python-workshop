@@ -3,7 +3,7 @@
 * It is aimed to obtain all of the Kocaeli University Titles using the Python 'BeautifulSoup' Library and print them on the terminal screen.
 ### :camera_flash: ScreenShot
 ![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/TitlesofAnnouncements/SS/Screenshot%20from%202021-07-22%2020-11-59.png?raw=true)
-*  :point_right: **[Click for more information.](https://github.com/berkay-c/Python_WorkShops/tree/main/PythonWebScraping/TitlesofAnnouncements)**  :point_left: 
+*  :point_right: **[Click for more information and source code](https://github.com/berkay-c/Python_WorkShops/tree/main/PythonWebScraping/TitlesofAnnouncements)**  :point_left: 
 
 ## :round_pushpin: 2-Plate Codes of Cities
  *    We used a web framework called  **'Flask'**  to create a web application.
@@ -14,7 +14,7 @@
 
  ### :camera_flash: ScreenShot ![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/SS3.png?raw=true)
  ![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/SS4.png?raw=true)
- * :point_right: **[Click for more information.](https://github.com/berkay-c/Python_WorkShops/tree/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes)**:point_left: 
+ * :point_right: **[Click for more information and source code](https://github.com/berkay-c/Python_WorkShops/tree/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes)**:point_left: 
 
  
  
