@@ -16,7 +16,6 @@
  
  ![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/DatabaseSS.png?raw=true)
  ![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/SS10.png?raw=true)
- 
  ![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/SS13.png?raw=true)
  * :point_right: **[Click for more information and source code](https://github.com/berkay-c/Python_WorkShops/tree/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes)**:point_left: 
 
