@@ -19,5 +19,14 @@
  ![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/SS13.png?raw=true)
  * :point_right: **[Click for more information and source code](https://github.com/berkay-c/Python_WorkShops/tree/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes)**:point_left: 
 
+
+## :round_pushpin:3-Sentiment Analysis With Data on 'yemeksepeti.com' And Automation
+It is aimed to perform Sentiment Analysis using TextBlob Module and Automation using Selenium Module.
+### :camera_flash: ScreenShot 
+![](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/PreBuiltGraphics/BurgerKingPlotThePolarityAndSubjectivity.png?raw=true)
+![](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/PreBuiltGraphics/BurgerKingGetWordCloud_English.png?raw=true)
+![](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/PreBuiltGraphics/BurgerKingSentimentAnalysisCounts.png?raw=true)
+
+* :point_right: **[Click for more information and source code](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium)**:point_left: 
  
  
